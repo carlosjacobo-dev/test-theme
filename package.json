@@ -1,11 +1,11 @@
 {
-    "title": "Name of the theme",
-    "name": "github-<owner>-<repo>",
-    "description": "A sample dark theme.",
+    "title": "ELDEN RING",
+    "name": "github-carlosjacobo-dev-test-theme",
+    "description": "ER testtheme.",
     "version": "0.0.1",
     "license": "MIT",
-    "author": "your name (https://github.com/<your github id>)",
-    "homepage": "<project web page url or this github repo url if no website available>",
+    "author": "Carlos Jacobo (https://github.com/carlosjacobo-dev",
+    "homepage": "https://github.com/carlosjacobo-dev/test-theme",
     "engines": {
         "brackets": ">=2.0.0"
     },
@@ -18,3 +18,4 @@
         "dark": true
     }
 }
+
