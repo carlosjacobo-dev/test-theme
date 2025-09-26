@@ -1,6 +1,6 @@
 {
     "title": "ELDEN RING",
-    "name": "github-carlosjacobo-dev-test-theme",
+    "name": "carlosjacobo-dev-test-theme",
     "description": "ER testtheme.",
     "version": "0.0.1",
     "license": "MIT",
@@ -18,4 +18,5 @@
         "dark": true
     }
 }
+
 
