@@ -1,7 +1,7 @@
 {
     "title": "ELDEN RING",
     "name": "carlosjacobo-dev-test-theme",
-    "description": "ER testtheme.",
+    "description": "ER test-theme.",
     "version": "0.0.1",
     "license": "MIT",
     "author": "Carlos Jacobo (https://github.com/carlosjacobo-dev",
@@ -14,9 +14,10 @@
         "phcode", "theme", "demo"
     ],
     "theme": {
-        "file": "my-theme.less",
+        "file": "elden-ring-theme.less",
         "dark": true
     }
 }
+
 
 
